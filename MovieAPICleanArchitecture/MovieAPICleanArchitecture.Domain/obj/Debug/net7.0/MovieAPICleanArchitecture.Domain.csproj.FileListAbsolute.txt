@@ -1,0 +1,11 @@
+C:\Sample Projects\Web API Clean Architecture\MovieAPICleanArchitecture\MovieAPICleanArchitecture.Domain\bin\Debug\net7.0\MovieAPICleanArchitecture.Domain.deps.json
+C:\Sample Projects\Web API Clean Architecture\MovieAPICleanArchitecture\MovieAPICleanArchitecture.Domain\bin\Debug\net7.0\MovieAPICleanArchitecture.Domain.dll
+C:\Sample Projects\Web API Clean Architecture\MovieAPICleanArchitecture\MovieAPICleanArchitecture.Domain\bin\Debug\net7.0\MovieAPICleanArchitecture.Domain.pdb
+C:\Sample Projects\Web API Clean Architecture\MovieAPICleanArchitecture\MovieAPICleanArchitecture.Domain\obj\Debug\net7.0\MovieAPICleanArchitecture.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sample Projects\Web API Clean Architecture\MovieAPICleanArchitecture\MovieAPICleanArchitecture.Domain\obj\Debug\net7.0\MovieAPICleanArchitecture.Domain.AssemblyInfoInputs.cache
+C:\Sample Projects\Web API Clean Architecture\MovieAPICleanArchitecture\MovieAPICleanArchitecture.Domain\obj\Debug\net7.0\MovieAPICleanArchitecture.Domain.AssemblyInfo.cs
+C:\Sample Projects\Web API Clean Architecture\MovieAPICleanArchitecture\MovieAPICleanArchitecture.Domain\obj\Debug\net7.0\MovieAPICleanArchitecture.Domain.csproj.CoreCompileInputs.cache
+C:\Sample Projects\Web API Clean Architecture\MovieAPICleanArchitecture\MovieAPICleanArchitecture.Domain\obj\Debug\net7.0\MovieAPICleanArchitecture.Domain.dll
+C:\Sample Projects\Web API Clean Architecture\MovieAPICleanArchitecture\MovieAPICleanArchitecture.Domain\obj\Debug\net7.0\refint\MovieAPICleanArchitecture.Domain.dll
+C:\Sample Projects\Web API Clean Architecture\MovieAPICleanArchitecture\MovieAPICleanArchitecture.Domain\obj\Debug\net7.0\MovieAPICleanArchitecture.Domain.pdb
+C:\Sample Projects\Web API Clean Architecture\MovieAPICleanArchitecture\MovieAPICleanArchitecture.Domain\obj\Debug\net7.0\ref\MovieAPICleanArchitecture.Domain.dll

@@ -1,0 +1,15 @@
+C:\Sample Projects\Web API Clean Architecture\MovieAPICleanArchitecture\MovieAPICleanArchitecture.Application\bin\Debug\net7.0\MovieAPICleanArchitecture.Application.deps.json
+C:\Sample Projects\Web API Clean Architecture\MovieAPICleanArchitecture\MovieAPICleanArchitecture.Application\bin\Debug\net7.0\MovieAPICleanArchitecture.Application.dll
+C:\Sample Projects\Web API Clean Architecture\MovieAPICleanArchitecture\MovieAPICleanArchitecture.Application\bin\Debug\net7.0\MovieAPICleanArchitecture.Application.pdb
+C:\Sample Projects\Web API Clean Architecture\MovieAPICleanArchitecture\MovieAPICleanArchitecture.Application\bin\Debug\net7.0\MovieAPICleanArchitecture.Domain.dll
+C:\Sample Projects\Web API Clean Architecture\MovieAPICleanArchitecture\MovieAPICleanArchitecture.Application\bin\Debug\net7.0\MovieAPICleanArchitecture.Domain.pdb
+C:\Sample Projects\Web API Clean Architecture\MovieAPICleanArchitecture\MovieAPICleanArchitecture.Application\obj\Debug\net7.0\MovieAPICleanArchitecture.Application.csproj.AssemblyReference.cache
+C:\Sample Projects\Web API Clean Architecture\MovieAPICleanArchitecture\MovieAPICleanArchitecture.Application\obj\Debug\net7.0\MovieAPICleanArchitecture.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sample Projects\Web API Clean Architecture\MovieAPICleanArchitecture\MovieAPICleanArchitecture.Application\obj\Debug\net7.0\MovieAPICleanArchitecture.Application.AssemblyInfoInputs.cache
+C:\Sample Projects\Web API Clean Architecture\MovieAPICleanArchitecture\MovieAPICleanArchitecture.Application\obj\Debug\net7.0\MovieAPICleanArchitecture.Application.AssemblyInfo.cs
+C:\Sample Projects\Web API Clean Architecture\MovieAPICleanArchitecture\MovieAPICleanArchitecture.Application\obj\Debug\net7.0\MovieAPICleanArchitecture.Application.csproj.CoreCompileInputs.cache
+C:\Sample Projects\Web API Clean Architecture\MovieAPICleanArchitecture\MovieAPICleanArchitecture.Application\obj\Debug\net7.0\MovieAPICleanArchitecture.Application.csproj.CopyComplete
+C:\Sample Projects\Web API Clean Architecture\MovieAPICleanArchitecture\MovieAPICleanArchitecture.Application\obj\Debug\net7.0\MovieAPICleanArchitecture.Application.dll
+C:\Sample Projects\Web API Clean Architecture\MovieAPICleanArchitecture\MovieAPICleanArchitecture.Application\obj\Debug\net7.0\refint\MovieAPICleanArchitecture.Application.dll
+C:\Sample Projects\Web API Clean Architecture\MovieAPICleanArchitecture\MovieAPICleanArchitecture.Application\obj\Debug\net7.0\MovieAPICleanArchitecture.Application.pdb
+C:\Sample Projects\Web API Clean Architecture\MovieAPICleanArchitecture\MovieAPICleanArchitecture.Application\obj\Debug\net7.0\ref\MovieAPICleanArchitecture.Application.dll
