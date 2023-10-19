@@ -19,5 +19,21 @@ namespace MovieAPICleanArchitecture.Application.Services.MovieServices
         {
             return await _movieRepository.GetMoviesAsync();
         }
+
+        public async Task<Movie?> GetMovie(int id) {
+            return await _movieRepository.GetMovieAsync(id);
+        }
+
+        public async Task<Movie> CreateMovie(Movie movie) { 
+            return await _movieRepository.CreateMovieAsync(movie);
+        }
+
+        public async Task<Movie?> UpdateMovie(Movie movie) { 
+            return await _movieRepository.UpdateMovieAsync(movie);
+        }
+
+        public async Task<Movie?> DeleteMovie(int id) { 
+            return await _movieRepository.DeleteMovieAsync(id);
+        }
     }
 }

@@ -20,5 +20,63 @@ namespace MovieAPICleanArchitecture.Infrastructure.Repositories.MovieRepositorie
         public async Task<List<Movie>> GetMoviesAsync() { 
             return await _dbContext.Movies.ToListAsync();
         }
+
+        public async Task<Movie?> GetMovieAsync(int Id) { 
+            var movie = await _dbContext.Movies.FindAsync(Id);
+            if (movie != null)
+            {
+                return movie;
+            }
+            return null;
+        }
+
+        public async Task<Movie> CreateMovieAsync(Movie movie) {
+            try {
+                _dbContext.Movies.Add(movie);
+                await _dbContext.SaveChangesAsync();
+                return movie;
+            } catch {
+                throw;
+            }
+        }
+
+        public async Task<Movie?> UpdateMovieAsync(Movie movie)
+        {
+            try
+            {
+                var existingMovie = await _dbContext.Movies.FindAsync(movie.Id);
+                if (existingMovie == null)
+                {
+                    return null;
+                }
+
+                existingMovie.Name = movie.Name;
+                existingMovie.Description = movie.Description;
+                existingMovie.Cost = movie.Cost;
+
+                await _dbContext.SaveChangesAsync();
+
+                return existingMovie;
+
+            } catch {
+                throw;
+            }
+        }
+
+        public async Task<Movie?> DeleteMovieAsync(int id)
+        {
+            try {
+                var existingMovie = await _dbContext.Movies.FindAsync(id);
+                if (existingMovie == null){
+                    return null;
+                }
+
+                _dbContext.Movies.Remove(existingMovie);
+                await _dbContext.SaveChangesAsync();
+                return existingMovie;
+            } catch {
+                throw;
+            }
+        }
     }
 }

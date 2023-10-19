@@ -10,5 +10,9 @@ namespace MovieAPICleanArchitecture.Application.Services.MovieServices
     public interface IMovieRepository
     {
         Task<List<Movie>> GetMoviesAsync();
+        Task<Movie?> GetMovieAsync(int Id);
+        Task<Movie> CreateMovieAsync(Movie movie);
+        Task<Movie?> UpdateMovieAsync(Movie movie);
+        Task<Movie?> DeleteMovieAsync(int id);
     }
 }
